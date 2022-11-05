@@ -1,11 +1,11 @@
 {
   "short_name": "Mint Page",
-  "name": "Mint Page",
+  "name": "Voodoo Cats - Mint Page",
   "icons": [
     {
       "src": "logo.png",
       "type": "image/png",
-      "sizes": "358x358"
+      "sizes": "500x500"
     }
   ],
   "start_url": ".",
